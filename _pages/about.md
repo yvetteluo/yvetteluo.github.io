@@ -21,7 +21,7 @@ I am a second year master student of Social Data Science from University of Cope
 
 My research interest includes machine learning and natural language processing.
 
-In my spare time, I like playing tennis and swimming. my favorite alcoholic drink is cider!
+In my spare time, I like playing tennis and swimming. My favorite alcoholic drink is cider!
 
 
 # 📖 Educations
