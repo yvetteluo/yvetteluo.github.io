@@ -35,7 +35,7 @@ In my spare time, I like playing tennis and swimming. My favorite alcoholic drin
 - *2019.07 - 2021.07*, Research Assistant in Big Data (full time), Peking University, Beijing, China.
 
 # 🎖 Honors and Awards
-- *2021.09 - 2023.06 (now)* Danish Government Scholarship. 
+- *2021.09 - 2023.06* Danish Government Scholarship. 
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
