@@ -31,7 +31,7 @@ In my spare time, I like playing tennis and swimming. My favorite alcoholic drin
 - *2023.01 - present*, Research Assistant in Blockchain (part time), Chinese University of Hong Kong, remote.
 - *2022.09 - present*, Teaching Assistant in Coding, University of Copenhagen, Copenhagen, Denmark.
 - *2019.07 - 2021.07*, Research Assistant in Big Data (full time), Peking University, Beijing, China.
-- *2018.09 - 2019.01*, Teaching Assistant for courses, Peking University, Beijing, China
+- *2018.09 - 2019.01*, Teaching Assistant for the course *International Political Economics *, Peking University, Beijing, China
 
 # 🎖 Honors and Awards
 - *2021.09 - 2023.06*, Danish Government Scholarship. 
