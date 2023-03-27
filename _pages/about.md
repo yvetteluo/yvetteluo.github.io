@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second year master student of Social Data Science from University of Copenhagen. My research interest includes blockchain, data science and natural language processing.
+I am Yanzhen (Yvette) Luo, currently a second year master student of Social Data Science from University of Copenhagen. My research interest includes blockchain, data science and natural language processing.
 
 In my spare time, I like playing tennis and swimming. My favorite alcoholic drink is cider!
 
