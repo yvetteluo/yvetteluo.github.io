@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second year master student of Social Data Science from University of Copenhagen.
-
-My research interest includes machine learning and natural language processing.
+I am currently a second year master student of Social Data Science from University of Copenhagen. My research interest includes blockchain, data science and natural language processing.
 
 In my spare time, I like playing tennis and swimming. My favorite alcoholic drink is cider!
 
@@ -33,9 +31,17 @@ In my spare time, I like playing tennis and swimming. My favorite alcoholic drin
 - *2023.01 - present*, Research Assistant in Blockchain (part time), Chinese University of Hong Kong, remote.
 - *2022.09 - present*, Teaching Assistant in Coding, University of Copenhagen, Copenhagen, Denmark.
 - *2019.07 - 2021.07*, Research Assistant in Big Data (full time), Peking University, Beijing, China.
+- *2018.09 - 2019.01*, Teaching Assistant for courses, Peking University, Beijing, China
 
 # 🎖 Honors and Awards
-- *2021.09 - 2023.06* Danish Government Scholarship. 
+- *2021.09 - 2023.06*, Danish Government Scholarship. 
+- *2019.07*, Excellent graduate of Peking University.
+- *2018.10*, Merit Student Award of Peking University.
+- *2016.10*, Merit Student Award of Peking University.
+
+<!-- # 💬 Conferences
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)  -->
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -55,9 +61,6 @@ In my spare time, I like playing tennis and swimming. My favorite alcoholic drin
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
