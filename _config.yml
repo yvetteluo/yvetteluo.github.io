@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yanzhen Luo (Yvette)"
-description              : "Focus on social data science and blockchain. "
+description              : "A social data scientist with background in Social Data Science and Economics. "
 repository               : "yvetteluo/yvette.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanzhen Luo (Yvette)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "University of Copenhagen"
+  bio              : "University of Copenhagen, Peking University"
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yanzhen-luo-165469225"
+  linkedin         : "yvette-luo"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
