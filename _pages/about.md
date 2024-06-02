@@ -17,20 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yanzhen (Yvette) Luo, currently a second year master student of Social Data Science from University of Copenhagen. My research interest includes blockchain, data science and natural language processing.
+I am Yanzhen (Yvette), a social data scientist with background in Social Data Science and Economics. I possess strong data science skills and am proficient in Python programming. I am passionate about transforming complex data into actionable insights and delivering practical digital solutions to diverse stakeholders.
 
 In my spare time, I like playing tennis and swimming. My favorite alcoholic drink is cider!
 
 
 # 📖 Educations
-- *2021.09 - present*, MSc in Social Data Science, University of Coepnhagen, Copenhagen, Denmark. 
+- *2021.09 - 2023.06*, MSc in Social Data Science, University of Coepnhagen, Copenhagen, Denmark. 
 - *2015.09 - 2019.06*, Bachelor of Economics, Peking University, Beijing, China.
 - *2016.09 - 2019.06*, Second Bachelor of Laws (International Polictics), Peking University, Beijing, China.
 
 # 💻 Professional Experiences
-- *2023.01 - present*, Research Assistant in Blockchain (part time), Chinese University of Hong Kong, remote.
-- *2022.09 - present*, Teaching Assistant in Coding, University of Copenhagen, Copenhagen, Denmark.
-- *2019.07 - 2021.07*, Research Assistant in Big Data (full time), Peking University, Beijing, China.
+- *2024.05 - present*, Research Assistant, University of Gothenburg, remote.
+- *2023.12 - present*, Insight Consultant, Will & Agency, Copenhagen, Denmark.
+- *2023.01 - 2023.07*, Research Assistant in Blockchain, Chinese University of Hong Kong, remote.
+- *2022.09 - 2023.06*, Teaching Assistant in Coding, University of Copenhagen, Copenhagen, Denmark.
+- *2019.07 - 2021.07*, Research Assistant in Big Data, Peking University, Beijing, China.
 - *2018.09 - 2019.01*, Teaching Assistant for the course *International Political Economics *, Peking University, Beijing, China
 
 # 🎖 Honors and Awards
