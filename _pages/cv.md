@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV](../assets/YanzhenLuo_CV.pdf): Mar 2023
-/n
-[Writing Sample](../assets/Master Thesis.pdf)
+[CV](../assets/YanzhenLUO_CV.pdf): Aug 2024
